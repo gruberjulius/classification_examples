@@ -17,6 +17,4 @@ The data was created with the help of the sklearn make_classification function.
 Note that the LightGBM Classifier and the HistGradientBoosting are based on the same underlying algorithm hence the results are very similiar.
 
 
-```
 ![Picture](result.png)
-```
